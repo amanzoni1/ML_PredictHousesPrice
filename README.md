@@ -31,12 +31,13 @@ Each model was evaluated based on key metrics, including Root Mean Squared Error
 
 ### Results
 
-	•	Best Model: Gradient Boosting Regressor
-	•	R² Score: 0.9544
-	•	RMSE: $17,991.02
-	•	MAE: $11,851.11
+The Gradient Boosting Regressor was selected as the final model due to its superior performance:
 
-These results indicate that the model is highly effective at predicting house prices in Ames, Iowa.
+	•	R² Score: 0.9851
+	•	Mean Absolute Error (MAE): $7,436.74
+	•	Root Mean Squared Error (RMSE): $9,756.22
+
+These results indicate a high level of accuracy, with the model successfully predicting house prices within a small margin of error.
 
 ### Conclusion
 
